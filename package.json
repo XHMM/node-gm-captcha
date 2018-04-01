@@ -1,0 +1,48 @@
+{
+  "author": {
+    "name": "xhmm",
+    "email": "1326099664@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xhmm/node-gm-captcha/issues"
+  },
+  "dependencies": {
+    "gm": "1.23.1"
+  },
+  "description": "use gm to create chaptcha number and image simply",
+  "devDependencies": {
+    "@types/gm": "1.17.33",
+    "@types/jest": "22.2.2",
+    "@types/node": "9.6.1",
+    "jest": "22.4.3",
+    "ts-jest": "22.4.2",
+    "typescript": "2.8.1"
+  },
+  "homepage": "https://github.com/xhmm/node-gm-captcha#readme",
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "keywords": [
+    "captcha",
+    "gm"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-gm-captcha",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhmm/node-gm-captcha.git"
+  },
+  "version": "1.0.8"
+}
