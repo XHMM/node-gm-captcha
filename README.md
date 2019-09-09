@@ -1,3 +1,5 @@
+# Dead project, Don't use it !!!
+
 ## Pre
 1. this project is still on working , its functionalities are not finally completed.
 2. it now just support number captcha and has many limitations.
